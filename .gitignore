@@ -1,0 +1,17 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# VSCode-specific
+.vscode/
+
+# macOS-specific
+.DS_Store
+Thumbs.db
