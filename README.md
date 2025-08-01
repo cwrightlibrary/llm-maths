@@ -10,7 +10,7 @@ The order below is the order I hope to go through most of these, maybe one from 
 
 ---
 
-- 📚 [`textbooks/`](textbooks)
+- 📚 [`notebooks/`](notebooks)
   - 📈 [`calculus/`](textbooks/calculus)
     - **Pre-Calculus**, *OpenStax* - [`0-pre-calculus.pdf`](textbooks/calculus/0-pre-calculus.pdf)
     - **Calculus Volume 1**, *OpenStax* - [`1-calculus`](textbooks/calculus/1-calculus.pdf)
